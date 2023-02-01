@@ -16,3 +16,5 @@ git commit -am "commit title"
 git push
 
 SSH command: ssh -i Lillys29CS260web.pem ubuntu@3.13.167.85
+
+Testing from VS Code
