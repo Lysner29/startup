@@ -16,10 +16,12 @@ git push
 
 SSH command: ssh -i Lillys29CS260web.pem ubuntu@3.13.167.85
 
+Startup Info: I'd like to re-design an existing website for a startup company
+
 ![Screen Shot 2023-02-06 at 12 01 25 PM](https://user-images.githubusercontent.com/72431556/217062146-dc6ade76-f4ce-425a-9801-4e82af5ec781.png)
 
 ![Screen Shot 2023-02-06 at 12 01 40 PM](https://user-images.githubusercontent.com/72431556/217062183-7a012209-09d6-4f51-bb75-af7c71938bd0.png)
 
 Key features: Account Login (for composers), survey links, general info, composition upload/download, links to composer websites, composition database search, feedback/request submission.
 
-Elevator Pitch: Do you know a music lover who wants to find new music? What about a composer who wants to spread their music to others? Quest Haven Publishing is the company to get both jobs done by bringing performers and composers together in a
+Elevator Pitch: Do you know a music lover who wants to find new music? What about a composer who wants to spread their music to others? Quest Haven Publishing is the company to get both jobs done by bringing performers and composers together in one location. This free music catalog will allow performers to search for pieces with unique instrumental combinations, as well as request for new pieces to be added. New composers will also have the opportunity to create an account and upload their scores to be added to the catalog, allowing performers to download and enjoy their contribution. For all things composer and performer related, Quest Haven Publishing can get it done!
