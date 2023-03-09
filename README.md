@@ -25,3 +25,5 @@ Startup Info: I'd like to re-design an existing website for a startup company
 Key features: Account Login (for composers), survey links, general info, composition upload/download, links to composer websites, composition database search, feedback/request submission.
 
 Elevator Pitch: Do you know a music lover who wants to find new music? What about a composer who wants to spread their music to others? Quest Haven Publishing is the company to get both jobs done by bringing performers and composers together in one location. This free music catalog will allow performers to search for pieces with unique instrumental combinations, as well as request for new pieces to be added. New composers will also have the opportunity to create an account and upload their scores to be added to the catalog, allowing performers to download and enjoy their contribution. For all things composer and performer related, Quest Haven Publishing can get it done!
+
+Remember: Vertically center text in a div: use "line-height: ".
