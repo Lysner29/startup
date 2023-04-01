@@ -1,3 +1,7 @@
+CSS - line-height: 3em; controls spacing between lines
+
+.underline:hover {text-decoration: underline;} underlines specified selection on hover. Can change other properites like color or font as well.
+
 # startup
 CS 260 Startup
 Testing changes
