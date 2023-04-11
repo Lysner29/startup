@@ -35,6 +35,23 @@ section h3 {
   margin-top: -1.5em;
 }
 
+section h4 {
+  flex: 0 60px;
+  font-size: 1.25em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h4:hover{
+  color: blue;
+}
+
+.headercard {
+  border: black solid medium;
+  position: relative;
+  line-height: 2.4em;
+}
+
 footer {
   flex: 0;
   background: black;
@@ -50,6 +67,7 @@ p {
   padding-right: 4em;
   text-align: left;
   line-height: 1.5em;
+  margin-left: 2em;
 }
 
 main {
