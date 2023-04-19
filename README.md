@@ -682,6 +682,10 @@ function logout() {
 
 Remember to allow users the option to logout of startup.
 
+Simon WebSocket Notes
+
+Different from expected - plan on implementing with a regular chat feature, directed to a composers chat for startup.
+
 
 
 
