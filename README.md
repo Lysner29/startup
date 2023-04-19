@@ -671,7 +671,16 @@ Remember to "npm install express" in each directory - one install isn't applicab
 Install all necessary npms before running code.
 use ./deployService instead of Files now.
 
+Simon Login Notes
 
+function logout() {
+  localStorage.removeItem('userName');
+  fetch(`/api/auth/logout`, {
+    method: 'delete',
+  }).then(() => (window.location.href = '/'));
+}
+
+Remember to allow users the option to logout of startup.
 
 
 
