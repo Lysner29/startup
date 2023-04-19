@@ -665,7 +665,11 @@ I also changed the name placeholder and the button type.
 I didn't adjust much of the javascript, it was interesting to read through it and see
 how it affected the game play.
 
+Simon Service Notes
 
+Remember to "npm install express" in each directory - one install isn't applicable to them all.
+Install all necessary npms before running code.
+use ./deployService instead of Files now.
 
 
 
