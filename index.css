@@ -134,7 +134,7 @@ main {
 }
 
 a {
-  font-family: sans-serif;
+
   color: inherit;
   text-decoration: none;
 }
@@ -163,6 +163,10 @@ section:nth-child(2) {
 
 .logo {
   float: left;
+}
+
+.signIn:hover {
+  color: darkred;
 }
 
 @media (max-height: 600px) {
