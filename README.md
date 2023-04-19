@@ -658,6 +658,13 @@ console.log('done');
 
 
 
+Simon JavaScript Notes
+
+I adjusted the colors of the buttons, updated my name and link to my Github startup files.
+I also changed the name placeholder and the button type.
+I didn't adjust much of the javascript, it was interesting to read through it and see
+how it affected the game play.
+
 
 
 
